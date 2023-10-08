@@ -1,0 +1,11 @@
+.join{
+    margin-left: 270px;
+    margin-bottom: 30px;
+}
+/* Market.css */
+.hover-shadow {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2); /* L'ombre de 4px */
+  }
+article{
+    margin-left: 80px;
+}  
